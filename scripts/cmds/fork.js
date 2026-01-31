@@ -1,4 +1,3 @@
-/cmd install fork.js 
 module.exports = {
   config: {
     name: "fork",
