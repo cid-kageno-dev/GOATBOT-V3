@@ -56,5 +56,5 @@ You can choose either as the core Facebook automation library.
 ## 📝 Credits
 
 * **Original Core:** GoatBot V2 by NTKhang  
-* **Libraries:** [fca-neokex](https://github.com/KhangGia1810/fca-neokex), biar-fca  
+* **Libraries:** [fca-neokex](https://github.com/Neokex/fca-neokex), [ws3-fca] 
 * **Modifications:** Cid Kageno (Shadow Garden Edition)
